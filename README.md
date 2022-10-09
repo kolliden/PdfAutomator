@@ -50,16 +50,6 @@ Abstract:xxx
 |    |—— 08.6 Erklärung zum Brandschutznachweis.pdf
 |    |—— 08.7 Erklärung zum Schallschutz und Erschütterungsschutz.pdf
 |—— main.py
-|—— Output - 2022-10-09__22.36.10
-|    |—— 01.1 Bauantrag-2.pdf
-|    |—— 02.1 Baubeschreibung.pdf
-|    |—— 03.2 Betriebsbeschreibung Gewerbliche Anlagen.pdf
-|    |—— 04.5 Erklärung zum Brandschutznachweis.pdf
-|    |—— 08.1 Erklärung Tragwerksplaner.pdf
-|    |—— 08.5 Erklärung zum Standsicherheitsnachweis.pdf
-|    |—— 08.6 Erklärung zum Brandschutznachweis.pdf
-|    |—— 08.7 Erklärung zum Schallschutz und Erschütterungsschutz.pdf
-|—— output.json
 ```
 ## Code Details
 ### Tested Platform
