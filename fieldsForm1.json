@@ -1,0 +1,386 @@
+{
+    'ubab': {
+        '/T': 'ubab',
+        '/FT': '/Tx',
+        '/Ff': 8388608,
+        '/V': 'Landkreis Dahme-Spreewald'
+    },
+    'vermerk1': {
+        '/T': 'vermerk1',
+        '/FT': '/Tx',
+        '/Ff': 12587008
+    },
+    'aktenzeichen': {
+        '/T': 'aktenzeichen',
+        '/FT': '/Tx',
+        '/Ff': 12582913
+    },
+    'bauaufsichtsbehoerde_verfahren': {
+        '/T': 'bauaufsichtsbehoerde_verfahren',
+        '/FT': '/Btn',
+        '/Ff': 49152,
+        '/Kids': [IndirectObject(494, 0, 4305907872), IndirectObject(495, 0, 4305907872), IndirectObject(496, 0, 4305907872), IndirectObject(497, 0, 4305907872)]
+    },
+    'antrag_abweichung': {
+        '/T': 'antrag_abweichung',
+        '/FT': '/Btn'
+    },
+    'antrag_ausnahme_befreiung': {
+        '/T': 'antrag_ausnahme_befreiung',
+        '/FT': '/Btn'
+    },
+    'gemeinde_amt_behoerde': {
+        '/T': 'gemeinde_amt_behoerde',
+        '/FT': '/Tx',
+        '/Ff': 12582912
+    },
+    'gemeinde_amt_strasse': {
+        '/T': 'gemeinde_amt_strasse',
+        '/FT': '/Tx',
+        '/Ff': 12582912
+    },
+    'gemeinde_amt_plz_ort': {
+        '/T': 'gemeinde_amt_plz_ort',
+        '/FT': '/Tx',
+        '/Ff': 12582912
+    },
+    'vermerk2': {
+        '/T': 'vermerk2',
+        '/FT': '/Tx',
+        '/Ff': 12587008
+    },
+    'aktenzeichen_gemeinde': {
+        '/T': 'aktenzeichen_gemeinde',
+        '/FT': '/Tx',
+        '/Ff': 12582913
+    },
+    'gemeinde_amt_sonderbehoerdliche_erlaubnis': {
+        '/T': 'gemeinde_amt_sonderbehoerdliche_erlaubnis',
+        '/FT': '/Btn'
+    },
+    'gemeinde_amt_zulassung_abweichung': {
+        '/T': 'gemeinde_amt_zulassung_abweichung',
+        '/FT': '/Btn'
+    },
+    'gemeinde_amt_zulassung_ausnahme_befreiung': {
+        '/T': 'gemeinde_amt_zulassung_ausnahme_befreiung',
+        '/FT': '/Btn'
+    },
+    'vorhaben': {
+        '/T': 'vorhaben',
+        '/FT': '/Btn',
+        '/Kids': [IndirectObject(503, 0, 4305907872), IndirectObject(504, 0, 4305907872), IndirectObject(505, 0, 4305907872)]
+    },
+    'kurzbezeichnungdesvorhabens': {
+        '/T': 'kurzbezeichnungdesvorhabens',
+        '/FT': '/Tx',
+        '/Ff': 12587008
+    },
+    'gemarkung': {
+        '/T': 'gemarkung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(508, 0, 4305907872), IndirectObject(509, 0, 4305907872), IndirectObject(510, 0, 4305907872), IndirectObject(511, 0, 4305907872), IndirectObject(512, 0, 4305907872), IndirectObject(513, 0, 4305907872), IndirectObject(514, 0, 4305907872), IndirectObject(515, 0, 4305907872), IndirectObject(507, 0, 4305907872)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'flur': {
+        '/T': 'flur',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(508, 0, 4305907872), IndirectObject(509, 0, 4305907872), IndirectObject(510, 0, 4305907872), IndirectObject(511, 0, 4305907872), IndirectObject(512, 0, 4305907872), IndirectObject(513, 0, 4305907872), IndirectObject(514, 0, 4305907872), IndirectObject(515, 0, 4305907872), IndirectObject(507, 0, 4305907872)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'flurstueck': {
+        '/T': 'flurstueck',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(508, 0, 4305907872), IndirectObject(509, 0, 4305907872), IndirectObject(510, 0, 4305907872), IndirectObject(511, 0, 4305907872), IndirectObject(512, 0, 4305907872), IndirectObject(513, 0, 4305907872), IndirectObject(514, 0, 4305907872), IndirectObject(515, 0, 4305907872), IndirectObject(507, 0, 4305907872)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'strasse': {
+        '/T': 'strasse',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912,
+        '/V': 'Ernst-von-Houwald-Damm'
+    },
+    'hausnummer': {
+        '/T': 'hausnummer',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912,
+        '/V': '9'
+    },
+    'plz': {
+        '/T': 'plz',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912,
+        '/V': '15907'
+    },
+    'ort': {
+        '/T': 'ort',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912,
+        '/V': 'Lübben'
+    },
+    'ortsteil': {
+        '/T': 'ortsteil',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(508, 0, 4305907872), IndirectObject(509, 0, 4305907872), IndirectObject(510, 0, 4305907872), IndirectObject(511, 0, 4305907872), IndirectObject(512, 0, 4305907872), IndirectObject(513, 0, 4305907872), IndirectObject(514, 0, 4305907872), IndirectObject(515, 0, 4305907872), IndirectObject(507, 0, 4305907872)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'bauherr_ist_grundstueckseigentuemer': {
+        '/T': 'bauherr_ist_grundstueckseigentuemer',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(508, 0, 4305907872), IndirectObject(509, 0, 4305907872), IndirectObject(510, 0, 4305907872), IndirectObject(511, 0, 4305907872), IndirectObject(512, 0, 4305907872), IndirectObject(513, 0, 4305907872), IndirectObject(514, 0, 4305907872), IndirectObject(515, 0, 4305907872), IndirectObject(507, 0, 4305907872)],
+            '/T': 'grundstueck'
+        }
+    },
+    'grundstueck': {
+        '/T': 'grundstueck',
+        '/Kids': [IndirectObject(508, 0, 4305907872), IndirectObject(509, 0, 4305907872), IndirectObject(510, 0, 4305907872), IndirectObject(511, 0, 4305907872), IndirectObject(512, 0, 4305907872), IndirectObject(513, 0, 4305907872), IndirectObject(514, 0, 4305907872), IndirectObject(515, 0, 4305907872), IndirectObject(507, 0, 4305907872)]
+    },
+    'name': {
+        '/T': 'name',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12587008,
+        '/V': 'Bauplanungsbüro Minetzke; Bearbeiter: Zoschenz'
+    },
+    'vorname': {
+        '/T': 'vorname',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12587008,
+        '/V': 'Jürgen'
+    },
+    'land': {
+        '/T': 'land',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'telefon': {
+        '/T': 'telefon',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912,
+        '/V': '03546-2475'
+    },
+    'fax': {
+        '/T': 'fax',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912,
+        '/V': '03546-182391'
+    },
+    'mail': {
+        '/T': 'mail',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(537, 0, 4305907872), IndirectObject(540, 0, 4305907872), IndirectObject(541, 0, 4305907872), IndirectObject(542, 0, 4305907872), IndirectObject(543, 0, 4305907872), IndirectObject(544, 0, 4305907872), IndirectObject(545, 0, 4305907872), IndirectObject(546, 0, 4305907872), IndirectObject(547, 0, 4305907872), IndirectObject(548, 0, 4305907872)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912,
+        '/V': 'zoschenz@bauplanung-minetzke.de'
+    },
+    'bauherr': {
+        '/T': 'bauherr',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(63, 0, 4305907872), IndirectObject(64, 0, 4305907872), IndirectObject(80, 0, 4305907872), IndirectObject(78, 0, 4305907872)],
+            '/T': 'unterschrift'
+        },
+        '/Ff': 12582913
+    },
+    'erklaerung_vertreter': {
+        '/T': 'erklaerung_vertreter',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(526, 0, 4305907872), IndirectObject(527, 0, 4305907872), IndirectObject(528, 0, 4305907872), IndirectObject(529, 0, 4305907872), IndirectObject(530, 0, 4305907872), IndirectObject(531, 0, 4305907872), IndirectObject(532, 0, 4305907872), IndirectObject(533, 0, 4305907872), IndirectObject(534, 0, 4305907872), IndirectObject(535, 0, 4305907872), IndirectObject(536, 0, 4305907872)],
+            '/T': 'vertreter'
+        }
+    },
+    'vertreter': {
+        '/T': 'vertreter',
+        '/Kids': [IndirectObject(526, 0, 4305907872), IndirectObject(527, 0, 4305907872), IndirectObject(528, 0, 4305907872), IndirectObject(529, 0, 4305907872), IndirectObject(530, 0, 4305907872), IndirectObject(531, 0, 4305907872), IndirectObject(532, 0, 4305907872), IndirectObject(533, 0, 4305907872), IndirectObject(534, 0, 4305907872), IndirectObject(535, 0, 4305907872), IndirectObject(536, 0, 4305907872)]
+    },
+    'planer': {
+        '/T': 'planer',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(63, 0, 4305907872), IndirectObject(64, 0, 4305907872), IndirectObject(80, 0, 4305907872), IndirectObject(78, 0, 4305907872)],
+            '/T': 'unterschrift'
+        },
+        '/Ff': 12582913
+    },
+    'GKZ': {
+        '/T': 'GKZ',
+        '/FT': '/Tx',
+        '/Ff': 4097
+    },
+    'fragestellung_vorbescheid_blatt': {
+        '/T': 'fragestellung_vorbescheid_blatt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(59, 0, 4305907872), IndirectObject(60, 0, 4305907872)],
+            '/T': 'vorbescheid'
+        }
+    },
+    'fragestellung_vorbescheid': {
+        '/T': 'fragestellung_vorbescheid',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(59, 0, 4305907872), IndirectObject(60, 0, 4305907872)],
+            '/T': 'vorbescheid'
+        },
+        '/Ff': 12587008
+    },
+    'vorbescheid': {
+        '/T': 'vorbescheid',
+        '/Kids': [IndirectObject(59, 0, 4305907872), IndirectObject(60, 0, 4305907872)]
+    },
+    'begruendung_abweichung_blatt': {
+        '/T': 'begruendung_abweichung_blatt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(62, 0, 4305907872), IndirectObject(61, 0, 4305907872)],
+            '/T': 'abweichung'
+        }
+    },
+    'begruendung_abweichung': {
+        '/T': 'begruendung_abweichung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(62, 0, 4305907872), IndirectObject(61, 0, 4305907872)],
+            '/T': 'abweichung'
+        },
+        '/Ff': 12587008
+    },
+    'abweichung': {
+        '/T': 'abweichung',
+        '/Kids': [IndirectObject(62, 0, 4305907872), IndirectObject(61, 0, 4305907872)]
+    },
+    'ort_bauherr': {
+        '/T': 'ort_bauherr',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(63, 0, 4305907872), IndirectObject(64, 0, 4305907872), IndirectObject(80, 0, 4305907872), IndirectObject(78, 0, 4305907872)],
+            '/T': 'unterschrift'
+        },
+        '/Ff': 12582912,
+        '/V': 'Lübben'
+    },
+    'datum_bauherr': {
+        '/T': 'datum_bauherr',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(63, 0, 4305907872), IndirectObject(64, 0, 4305907872), IndirectObject(80, 0, 4305907872), IndirectObject(78, 0, 4305907872)],
+            '/T': 'unterschrift'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(67, 0, 4305907872),
+            '/K': IndirectObject(72, 0, 4305907872)
+        }
+    },
+    'unterschrift': {
+        '/T': 'unterschrift',
+        '/Kids': [IndirectObject(63, 0, 4305907872), IndirectObject(64, 0, 4305907872), IndirectObject(80, 0, 4305907872), IndirectObject(78, 0, 4305907872)]
+    },
+    'angaben_blatt': {
+        '/T': 'angaben_blatt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(74, 0, 4305907872), IndirectObject(75, 0, 4305907872)],
+            '/T': 'bauvorlagen'
+        }
+    },
+    'angaben': {
+        '/T': 'angaben',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(74, 0, 4305907872), IndirectObject(75, 0, 4305907872)],
+            '/T': 'bauvorlagen'
+        },
+        '/Ff': 12587008
+    },
+    'bauvorlagen': {
+        '/T': 'bauvorlagen',
+        '/Kids': [IndirectObject(74, 0, 4305907872), IndirectObject(75, 0, 4305907872)]
+    },
+    'intelliform:submit:cancel': {
+        '/T': 'intelliform:submit:cancel',
+        '/FT': '/Btn',
+        '/Ff': 65536
+    },
+    'intelliform:submit:save': {
+        '/T': 'intelliform:submit:save',
+        '/FT': '/Btn',
+        '/Ff': 65536
+    },
+    'intelliform:submit:button': {
+        '/T': 'intelliform:submit:button',
+        '/FT': '/Btn',
+        '/Ff': 65536
+    },
+    'erklaerung_bauherr': {
+        '/T': 'erklaerung_bauherr',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(93, 0, 4305907872)],
+            '/T': 'erklaerung'
+        },
+        '/V': '/einverstanden',
+        '/Kids': [IndirectObject(76, 0, 4305907872), IndirectObject(77, 0, 4305907872)]
+    },
+    'erklaerung': {
+        '/T': 'erklaerung',
+        '/Kids': [IndirectObject(93, 0, 4305907872)]
+    },
+    'intelliform:form:id': {
+        '/T': 'intelliform:form:id',
+        '/FT': '/Tx',
+        '/Ff': 0,
+        '/V': '87703'
+    }
+}

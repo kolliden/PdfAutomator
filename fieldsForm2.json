@@ -1,0 +1,1258 @@
+{
+    'bauanzeigevom': {
+        '/T': 'bauanzeigevom',
+        '/FT': '/Tx',
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(1678, 0, 4345868448),
+            '/K': IndirectObject(1679, 0, 4345868448)
+        }
+    },
+    'baugenehmigungvom': {
+        '/T': 'baugenehmigungvom',
+        '/FT': '/Tx',
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(1680, 0, 4345868448),
+            '/K': IndirectObject(1681, 0, 4345868448)
+        }
+    },
+    'vorhaben': {
+        '/T': 'vorhaben',
+        '/FT': '/Btn',
+        '/Kids': [IndirectObject(1621, 0, 4345868448), IndirectObject(1622, 0, 4345868448), IndirectObject(1623, 0, 4345868448)]
+    },
+    'kurzbezeichnungdesvorhabens': {
+        '/T': 'kurzbezeichnungdesvorhabens',
+        '/FT': '/Tx',
+        '/Ff': 12587008
+    },
+    'gemarkung': {
+        '/T': 'gemarkung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1625, 0, 4345868448), IndirectObject(1626, 0, 4345868448), IndirectObject(1627, 0, 4345868448), IndirectObject(1628, 0, 4345868448), IndirectObject(1629, 0, 4345868448), IndirectObject(1630, 0, 4345868448), IndirectObject(1631, 0, 4345868448), IndirectObject(1632, 0, 4345868448)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'flur': {
+        '/T': 'flur',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1625, 0, 4345868448), IndirectObject(1626, 0, 4345868448), IndirectObject(1627, 0, 4345868448), IndirectObject(1628, 0, 4345868448), IndirectObject(1629, 0, 4345868448), IndirectObject(1630, 0, 4345868448), IndirectObject(1631, 0, 4345868448), IndirectObject(1632, 0, 4345868448)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'flurstueck': {
+        '/T': 'flurstueck',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1625, 0, 4345868448), IndirectObject(1626, 0, 4345868448), IndirectObject(1627, 0, 4345868448), IndirectObject(1628, 0, 4345868448), IndirectObject(1629, 0, 4345868448), IndirectObject(1630, 0, 4345868448), IndirectObject(1631, 0, 4345868448), IndirectObject(1632, 0, 4345868448)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'strasse': {
+        '/T': 'strasse',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'hausnummer': {
+        '/T': 'hausnummer',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'plz': {
+        '/T': 'plz',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'ort': {
+        '/T': 'ort',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'ortsteil': {
+        '/T': 'ortsteil',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1625, 0, 4345868448), IndirectObject(1626, 0, 4345868448), IndirectObject(1627, 0, 4345868448), IndirectObject(1628, 0, 4345868448), IndirectObject(1629, 0, 4345868448), IndirectObject(1630, 0, 4345868448), IndirectObject(1631, 0, 4345868448), IndirectObject(1632, 0, 4345868448)],
+            '/T': 'grundstueck'
+        },
+        '/Ff': 12582912
+    },
+    'grundstueck': {
+        '/T': 'grundstueck',
+        '/Kids': [IndirectObject(1625, 0, 4345868448), IndirectObject(1626, 0, 4345868448), IndirectObject(1627, 0, 4345868448), IndirectObject(1628, 0, 4345868448), IndirectObject(1629, 0, 4345868448), IndirectObject(1630, 0, 4345868448), IndirectObject(1631, 0, 4345868448), IndirectObject(1632, 0, 4345868448)]
+    },
+    'name': {
+        '/T': 'name',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12587008
+    },
+    'vorname': {
+        '/T': 'vorname',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12587008
+    },
+    'land': {
+        '/T': 'land',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'telefon': {
+        '/T': 'telefon',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'fax': {
+        '/T': 'fax',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'mail': {
+        '/T': 'mail',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)],
+            '/T': 'planer'
+        },
+        '/Ff': 12582912
+    },
+    'bauherr': {
+        '/T': 'bauherr',
+        '/Kids': [IndirectObject(1633, 0, 4345868448), IndirectObject(1634, 0, 4345868448), IndirectObject(1635, 0, 4345868448), IndirectObject(1636, 0, 4345868448), IndirectObject(1637, 0, 4345868448), IndirectObject(1638, 0, 4345868448), IndirectObject(1639, 0, 4345868448), IndirectObject(1640, 0, 4345868448), IndirectObject(1641, 0, 4345868448), IndirectObject(1642, 0, 4345868448)]
+    },
+    'planer': {
+        '/T': 'planer',
+        '/Kids': [IndirectObject(1643, 0, 4345868448), IndirectObject(1644, 0, 4345868448), IndirectObject(1645, 0, 4345868448), IndirectObject(1646, 0, 4345868448), IndirectObject(1647, 0, 4345868448), IndirectObject(1648, 0, 4345868448), IndirectObject(1649, 0, 4345868448), IndirectObject(1650, 0, 4345868448), IndirectObject(1651, 0, 4345868448), IndirectObject(1652, 0, 4345868448)]
+    },
+    'klasse': {
+        '/T': 'klasse',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1653, 0, 4345868448), IndirectObject(1654, 0, 4345868448), IndirectObject(1655, 0, 4345868448), IndirectObject(1656, 0, 4345868448)],
+            '/T': 'gebaeudeklasse'
+        },
+        '/Ff': 12582912
+    },
+    'hoehe': {
+        '/T': 'hoehe',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1653, 0, 4345868448), IndirectObject(1654, 0, 4345868448), IndirectObject(1655, 0, 4345868448), IndirectObject(1656, 0, 4345868448)],
+            '/T': 'gebaeudeklasse'
+        },
+        '/Ff': 12582912
+    },
+    'anzahl_ne': {
+        '/T': 'anzahl_ne',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1653, 0, 4345868448), IndirectObject(1654, 0, 4345868448), IndirectObject(1655, 0, 4345868448), IndirectObject(1656, 0, 4345868448)],
+            '/T': 'gebaeudeklasse'
+        },
+        '/Ff': 12582912
+    },
+    'brutto_gf': {
+        '/T': 'brutto_gf',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1653, 0, 4345868448), IndirectObject(1654, 0, 4345868448), IndirectObject(1655, 0, 4345868448), IndirectObject(1656, 0, 4345868448)],
+            '/T': 'gebaeudeklasse'
+        },
+        '/Ff': 12582912
+    },
+    'gebaeudeklasse': {
+        '/T': 'gebaeudeklasse',
+        '/Kids': [IndirectObject(1653, 0, 4345868448), IndirectObject(1654, 0, 4345868448), IndirectObject(1655, 0, 4345868448), IndirectObject(1656, 0, 4345868448)]
+    },
+    'baugrund': {
+        '/T': 'baugrund',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Ff': 12587008
+    },
+    'grundwasserverhaeltnisse': {
+        '/T': 'grundwasserverhaeltnisse',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Ff': 12587008
+    },
+    'f_angaben_gesamt': {
+        '/T': 'f_angaben_gesamt',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(454, 0, 4345868448)],
+            '/Parent': IndirectObject(661, 0, 4345868448),
+            '/T': 'tueren'
+        },
+        '/Ff': 12587008
+    },
+    'fundamente': {
+        '/T': 'fundamente',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(1659, 0, 4345868448)]
+    },
+    'tragkonstruktion': {
+        '/T': 'tragkonstruktion',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(1660, 0, 4345868448)]
+    },
+    'aussenwaende': {
+        '/T': 'aussenwaende',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(1661, 0, 4345868448)]
+    },
+    'aussenputz': {
+        '/T': 'aussenputz',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(459, 0, 4345868448)]
+    },
+    'trennwaende': {
+        '/T': 'trennwaende',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(463, 0, 4345868448)]
+    },
+    'brandwaende': {
+        '/T': 'brandwaende',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(461, 0, 4345868448)]
+    },
+    'decken': {
+        '/T': 'decken',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(455, 0, 4345868448)]
+    },
+    'boeden': {
+        '/T': 'boeden',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(460, 0, 4345868448)]
+    },
+    'dachtragwerk': {
+        '/T': 'dachtragwerk',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(458, 0, 4345868448)]
+    },
+    'dachhaut': {
+        '/T': 'dachhaut',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(462, 0, 4345868448)]
+    },
+    'treppen': {
+        '/T': 'treppen',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(457, 0, 4345868448)]
+    },
+    'treppenraeume': {
+        '/T': 'treppenraeume',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(456, 0, 4345868448)]
+    },
+    'fenster': {
+        '/T': 'fenster',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(453, 0, 4345868448)]
+    },
+    'tueren': {
+        '/T': 'tueren',
+        '/Parent': {
+            '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)],
+            '/T': 'baugrund_baustoffe_konstruktion'
+        },
+        '/Kids': [IndirectObject(454, 0, 4345868448)]
+    },
+    'sonstige_angaben': {
+        '/T': 'sonstige_angaben',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(648, 0, 4345868448)],
+            '/T': 'ergaenzende_angaben'
+        },
+        '/Ff': 12587008
+    },
+    'baugrund_baustoffe_konstruktion': {
+        '/T': 'baugrund_baustoffe_konstruktion',
+        '/Kids': [IndirectObject(1657, 0, 4345868448), IndirectObject(1658, 0, 4345868448), IndirectObject(704, 0, 4345868448), IndirectObject(705, 0, 4345868448), IndirectObject(706, 0, 4345868448), IndirectObject(707, 0, 4345868448), IndirectObject(708, 0, 4345868448), IndirectObject(709, 0, 4345868448), IndirectObject(710, 0, 4345868448), IndirectObject(711, 0, 4345868448), IndirectObject(712, 0, 4345868448), IndirectObject(713, 0, 4345868448), IndirectObject(714, 0, 4345868448), IndirectObject(715, 0, 4345868448), IndirectObject(716, 0, 4345868448), IndirectObject(717, 0, 4345868448), IndirectObject(718, 0, 4345868448)]
+    },
+    'anzahl': {
+        '/T': 'anzahl',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912
+    },
+    'art': {
+        '/T': 'art',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(569, 0, 4345868448), IndirectObject(567, 0, 4345868448), IndirectObject(568, 0, 4345868448), IndirectObject(565, 0, 4345868448), IndirectObject(564, 0, 4345868448), IndirectObject(563, 0, 4345868448)],
+            '/Parent': IndirectObject(666, 0, 4345868448),
+            '/T': '$3'
+        },
+        '/Ff': 12582912
+    },
+    'verwendungszweck_heizung': {
+        '/T': 'verwendungszweck_heizung',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(433, 0, 4345868448), IndirectObject(482, 0, 4345868448), IndirectObject(428, 0, 4345868448), IndirectObject(429, 0, 4345868448), IndirectObject(700, 0, 4345868448), IndirectObject(701, 0, 4345868448), IndirectObject(467, 0, 4345868448)],
+            '/Parent': IndirectObject(662, 0, 4345868448),
+            '/T': '$1'
+        }
+    },
+    'verwendungszweck_warmwasser': {
+        '/T': 'verwendungszweck_warmwasser',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(433, 0, 4345868448), IndirectObject(482, 0, 4345868448), IndirectObject(428, 0, 4345868448), IndirectObject(429, 0, 4345868448), IndirectObject(700, 0, 4345868448), IndirectObject(701, 0, 4345868448), IndirectObject(467, 0, 4345868448)],
+            '/Parent': IndirectObject(662, 0, 4345868448),
+            '/T': '$1'
+        }
+    },
+    'brennstoffart': {
+        '/T': 'brennstoffart',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(474, 0, 4345868448), IndirectObject(471, 0, 4345868448), IndirectObject(445, 0, 4345868448)],
+            '/Parent': IndirectObject(663, 0, 4345868448),
+            '/T': '$1'
+        },
+        '/Ff': 12582912
+    },
+    'raumluft': {
+        '/T': 'raumluft',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(433, 0, 4345868448), IndirectObject(482, 0, 4345868448), IndirectObject(428, 0, 4345868448), IndirectObject(429, 0, 4345868448), IndirectObject(700, 0, 4345868448), IndirectObject(701, 0, 4345868448), IndirectObject(467, 0, 4345868448)],
+            '/Parent': IndirectObject(662, 0, 4345868448),
+            '/T': '$1'
+        },
+        '/Kids': [IndirectObject(430, 0, 4345868448), IndirectObject(464, 0, 4345868448)]
+    },
+    'nennwaermeleistung': {
+        '/T': 'nennwaermeleistung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(433, 0, 4345868448), IndirectObject(482, 0, 4345868448), IndirectObject(428, 0, 4345868448), IndirectObject(429, 0, 4345868448), IndirectObject(700, 0, 4345868448), IndirectObject(701, 0, 4345868448), IndirectObject(467, 0, 4345868448)],
+            '/Parent': IndirectObject(662, 0, 4345868448),
+            '/T': '$1'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(478, 0, 4345868448),
+            '/K': IndirectObject(480, 0, 4345868448)
+        }
+    },
+    '$0': {
+        '/T': '$0',
+        '/Parent': {
+            '/Kids': [IndirectObject(691, 0, 4345868448), IndirectObject(692, 0, 4345868448), IndirectObject(693, 0, 4345868448), IndirectObject(694, 0, 4345868448)],
+            '/T': 'abgasanlage'
+        },
+        '/Kids': [IndirectObject(547, 0, 4345868448), IndirectObject(549, 0, 4345868448), IndirectObject(488, 0, 4345868448), IndirectObject(545, 0, 4345868448), IndirectObject(580, 0, 4345868448), IndirectObject(546, 0, 4345868448)]
+    },
+    '$1': {
+        '/T': '$1',
+        '/Parent': {
+            '/Kids': [IndirectObject(691, 0, 4345868448), IndirectObject(692, 0, 4345868448), IndirectObject(693, 0, 4345868448), IndirectObject(694, 0, 4345868448)],
+            '/T': 'abgasanlage'
+        },
+        '/Kids': [IndirectObject(548, 0, 4345868448), IndirectObject(578, 0, 4345868448), IndirectObject(487, 0, 4345868448), IndirectObject(573, 0, 4345868448), IndirectObject(575, 0, 4345868448), IndirectObject(577, 0, 4345868448)]
+    },
+    'feuerstaette': {
+        '/T': 'feuerstaette',
+        '/Kids': [IndirectObject(698, 0, 4345868448), IndirectObject(699, 0, 4345868448)]
+    },
+    'kesselart': {
+        '/T': 'kesselart',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(474, 0, 4345868448), IndirectObject(471, 0, 4345868448), IndirectObject(445, 0, 4345868448)],
+            '/Parent': IndirectObject(663, 0, 4345868448),
+            '/T': '$1'
+        },
+        '/Ff': 12582912
+    },
+    'ausruestung': {
+        '/T': 'ausruestung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(474, 0, 4345868448), IndirectObject(471, 0, 4345868448), IndirectObject(445, 0, 4345868448)],
+            '/Parent': IndirectObject(663, 0, 4345868448),
+            '/T': '$1'
+        },
+        '/Ff': 12582912
+    },
+    'fs_zusatz': {
+        '/T': 'fs_zusatz',
+        '/Kids': [IndirectObject(696, 0, 4345868448), IndirectObject(697, 0, 4345868448)]
+    },
+    'fenster_tuer': {
+        '/T': 'fenster_tuer',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        }
+    },
+    'fugendichtung': {
+        '/T': 'fugendichtung',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        },
+        '/Kids': [IndirectObject(440, 0, 4345868448), IndirectObject(438, 0, 4345868448)]
+    },
+    'lueftungsoeffnung': {
+        '/T': 'lueftungsoeffnung',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        }
+    },
+    'querschnitt_lueftungsoeffnung': {
+        '/T': 'querschnitt_lueftungsoeffnung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(447, 0, 4345868448),
+            '/K': IndirectObject(448, 0, 4345868448)
+        }
+    },
+    'lueftungsleitung': {
+        '/T': 'lueftungsleitung',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        }
+    },
+    'querschnitt_lueftungsleitung': {
+        '/T': 'querschnitt_lueftungsleitung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(477, 0, 4345868448),
+            '/K': IndirectObject(441, 0, 4345868448)
+        }
+    },
+    'lueftungsverbund': {
+        '/T': 'lueftungsverbund',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        }
+    },
+    'gesamtrauminhalt_lueftungsverbund': {
+        '/T': 'gesamtrauminhalt_lueftungsverbund',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)],
+            '/T': 'lueftung'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(483, 0, 4345868448),
+            '/K': IndirectObject(442, 0, 4345868448)
+        }
+    },
+    'lueftung': {
+        '/T': 'lueftung',
+        '/Kids': [IndirectObject(444, 0, 4345868448), IndirectObject(695, 0, 4345868448), IndirectObject(465, 0, 4345868448), IndirectObject(466, 0, 4345868448), IndirectObject(468, 0, 4345868448), IndirectObject(475, 0, 4345868448), IndirectObject(469, 0, 4345868448), IndirectObject(479, 0, 4345868448)]
+    },
+    'art_der_anlage': {
+        '/T': 'art_der_anlage',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(485, 0, 4345868448)],
+            '/T': 'anlagen_waermeversorgung_haustechnik'
+        },
+        '/Ff': 12587008
+    },
+    'anlagen_waermeversorgung_haustechnik': {
+        '/T': 'anlagen_waermeversorgung_haustechnik',
+        '/Kids': [IndirectObject(485, 0, 4345868448)]
+    },
+    'bauart_baustoff': {
+        '/T': 'bauart_baustoff',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(569, 0, 4345868448), IndirectObject(567, 0, 4345868448), IndirectObject(568, 0, 4345868448), IndirectObject(565, 0, 4345868448), IndirectObject(564, 0, 4345868448), IndirectObject(563, 0, 4345868448)],
+            '/Parent': IndirectObject(666, 0, 4345868448),
+            '/T': '$3'
+        },
+        '/Ff': 12582912
+    },
+    'f_laenge_mal_breite': {
+        '/T': 'f_laenge_mal_breite',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(569, 0, 4345868448), IndirectObject(567, 0, 4345868448), IndirectObject(568, 0, 4345868448), IndirectObject(565, 0, 4345868448), IndirectObject(564, 0, 4345868448), IndirectObject(563, 0, 4345868448)],
+            '/Parent': IndirectObject(666, 0, 4345868448),
+            '/T': '$3'
+        },
+        '/Ff': 12582912
+    },
+    'durchmesser': {
+        '/T': 'durchmesser',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(569, 0, 4345868448), IndirectObject(567, 0, 4345868448), IndirectObject(568, 0, 4345868448), IndirectObject(565, 0, 4345868448), IndirectObject(564, 0, 4345868448), IndirectObject(563, 0, 4345868448)],
+            '/Parent': IndirectObject(666, 0, 4345868448),
+            '/T': '$3'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(502, 0, 4345868448),
+            '/K': IndirectObject(519, 0, 4345868448)
+        }
+    },
+    'flaeche': {
+        '/T': 'flaeche',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(569, 0, 4345868448), IndirectObject(567, 0, 4345868448), IndirectObject(568, 0, 4345868448), IndirectObject(565, 0, 4345868448), IndirectObject(564, 0, 4345868448), IndirectObject(563, 0, 4345868448)],
+            '/Parent': IndirectObject(666, 0, 4345868448),
+            '/T': '$3'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(493, 0, 4345868448),
+            '/K': IndirectObject(496, 0, 4345868448)
+        }
+    },
+    '$2': {
+        '/T': '$2',
+        '/Parent': {
+            '/Kids': [IndirectObject(691, 0, 4345868448), IndirectObject(692, 0, 4345868448), IndirectObject(693, 0, 4345868448), IndirectObject(694, 0, 4345868448)],
+            '/T': 'abgasanlage'
+        },
+        '/Kids': [IndirectObject(576, 0, 4345868448), IndirectObject(486, 0, 4345868448), IndirectObject(574, 0, 4345868448), IndirectObject(572, 0, 4345868448), IndirectObject(571, 0, 4345868448), IndirectObject(570, 0, 4345868448)]
+    },
+    '$3': {
+        '/T': '$3',
+        '/Parent': {
+            '/Kids': [IndirectObject(691, 0, 4345868448), IndirectObject(692, 0, 4345868448), IndirectObject(693, 0, 4345868448), IndirectObject(694, 0, 4345868448)],
+            '/T': 'abgasanlage'
+        },
+        '/Kids': [IndirectObject(569, 0, 4345868448), IndirectObject(567, 0, 4345868448), IndirectObject(568, 0, 4345868448), IndirectObject(565, 0, 4345868448), IndirectObject(564, 0, 4345868448), IndirectObject(563, 0, 4345868448)]
+    },
+    'abgasanlage': {
+        '/T': 'abgasanlage',
+        '/Kids': [IndirectObject(691, 0, 4345868448), IndirectObject(692, 0, 4345868448), IndirectObject(693, 0, 4345868448), IndirectObject(694, 0, 4345868448)]
+    },
+    'kohle': {
+        '/T': 'kohle',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(566, 0, 4345868448), IndirectObject(562, 0, 4345868448), IndirectObject(561, 0, 4345868448), IndirectObject(552, 0, 4345868448)],
+            '/T': 'brennstoffe_fest'
+        }
+    },
+    'koks': {
+        '/T': 'koks',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(566, 0, 4345868448), IndirectObject(562, 0, 4345868448), IndirectObject(561, 0, 4345868448), IndirectObject(552, 0, 4345868448)],
+            '/T': 'brennstoffe_fest'
+        }
+    },
+    'holz': {
+        '/T': 'holz',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(566, 0, 4345868448), IndirectObject(562, 0, 4345868448), IndirectObject(561, 0, 4345868448), IndirectObject(552, 0, 4345868448)],
+            '/T': 'brennstoffe_fest'
+        }
+    },
+    'holzpellets': {
+        '/T': 'holzpellets',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(566, 0, 4345868448), IndirectObject(562, 0, 4345868448), IndirectObject(561, 0, 4345868448), IndirectObject(552, 0, 4345868448)],
+            '/T': 'brennstoffe_fest'
+        }
+    },
+    'brennstoffe_fest': {
+        '/T': 'brennstoffe_fest',
+        '/Kids': [IndirectObject(566, 0, 4345868448), IndirectObject(562, 0, 4345868448), IndirectObject(561, 0, 4345868448), IndirectObject(552, 0, 4345868448)]
+    },
+    'heizoel': {
+        '/T': 'heizoel',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(551, 0, 4345868448), IndirectObject(550, 0, 4345868448), IndirectObject(544, 0, 4345868448), IndirectObject(543, 0, 4345868448), IndirectObject(542, 0, 4345868448), IndirectObject(540, 0, 4345868448), IndirectObject(579, 0, 4345868448), IndirectObject(541, 0, 4345868448), IndirectObject(689, 0, 4345868448), IndirectObject(536, 0, 4345868448), IndirectObject(531, 0, 4345868448), IndirectObject(532, 0, 4345868448), IndirectObject(534, 0, 4345868448), IndirectObject(690, 0, 4345868448), IndirectObject(558, 0, 4345868448), IndirectObject(526, 0, 4345868448), IndirectObject(525, 0, 4345868448), IndirectObject(527, 0, 4345868448)],
+            '/T': 'brennstoffe_fluessig'
+        }
+    },
+    'diesel': {
+        '/T': 'diesel',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(551, 0, 4345868448), IndirectObject(550, 0, 4345868448), IndirectObject(544, 0, 4345868448), IndirectObject(543, 0, 4345868448), IndirectObject(542, 0, 4345868448), IndirectObject(540, 0, 4345868448), IndirectObject(579, 0, 4345868448), IndirectObject(541, 0, 4345868448), IndirectObject(689, 0, 4345868448), IndirectObject(536, 0, 4345868448), IndirectObject(531, 0, 4345868448), IndirectObject(532, 0, 4345868448), IndirectObject(534, 0, 4345868448), IndirectObject(690, 0, 4345868448), IndirectObject(558, 0, 4345868448), IndirectObject(526, 0, 4345868448), IndirectObject(525, 0, 4345868448), IndirectObject(527, 0, 4345868448)],
+            '/T': 'brennstoffe_fluessig'
+        }
+    },
+    'benzin': {
+        '/T': 'benzin',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(551, 0, 4345868448), IndirectObject(550, 0, 4345868448), IndirectObject(544, 0, 4345868448), IndirectObject(543, 0, 4345868448), IndirectObject(542, 0, 4345868448), IndirectObject(540, 0, 4345868448), IndirectObject(579, 0, 4345868448), IndirectObject(541, 0, 4345868448), IndirectObject(689, 0, 4345868448), IndirectObject(536, 0, 4345868448), IndirectObject(531, 0, 4345868448), IndirectObject(532, 0, 4345868448), IndirectObject(534, 0, 4345868448), IndirectObject(690, 0, 4345868448), IndirectObject(558, 0, 4345868448), IndirectObject(526, 0, 4345868448), IndirectObject(525, 0, 4345868448), IndirectObject(527, 0, 4345868448)],
+            '/T': 'brennstoffe_fluessig'
+        }
+    },
+    'biokraftstoff': {
+        '/T': 'biokraftstoff',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(551, 0, 4345868448), IndirectObject(550, 0, 4345868448), IndirectObject(544, 0, 4345868448), IndirectObject(543, 0, 4345868448), IndirectObject(542, 0, 4345868448), IndirectObject(540, 0, 4345868448), IndirectObject(579, 0, 4345868448), IndirectObject(541, 0, 4345868448), IndirectObject(689, 0, 4345868448), IndirectObject(536, 0, 4345868448), IndirectObject(531, 0, 4345868448), IndirectObject(532, 0, 4345868448), IndirectObject(534, 0, 4345868448), IndirectObject(690, 0, 4345868448), IndirectObject(558, 0, 4345868448), IndirectObject(526, 0, 4345868448), IndirectObject(525, 0, 4345868448), IndirectObject(527, 0, 4345868448)],
+            '/T': 'brennstoffe_fluessig'
+        }
+    },
+    'sonstige': {
+        '/T': 'sonstige',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(551, 0, 4345868448), IndirectObject(550, 0, 4345868448), IndirectObject(544, 0, 4345868448), IndirectObject(543, 0, 4345868448), IndirectObject(542, 0, 4345868448), IndirectObject(540, 0, 4345868448), IndirectObject(579, 0, 4345868448), IndirectObject(541, 0, 4345868448), IndirectObject(689, 0, 4345868448), IndirectObject(536, 0, 4345868448), IndirectObject(531, 0, 4345868448), IndirectObject(532, 0, 4345868448), IndirectObject(534, 0, 4345868448), IndirectObject(690, 0, 4345868448), IndirectObject(558, 0, 4345868448), IndirectObject(526, 0, 4345868448), IndirectObject(525, 0, 4345868448), IndirectObject(527, 0, 4345868448)],
+            '/T': 'brennstoffe_fluessig'
+        },
+        '/Ff': 12582912
+    },
+    'heizoellagerraum': {
+        '/T': 'heizoellagerraum',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(551, 0, 4345868448), IndirectObject(550, 0, 4345868448), IndirectObject(544, 0, 4345868448), IndirectObject(543, 0, 4345868448), IndirectObject(542, 0, 4345868448), IndirectObject(540, 0, 4345868448), IndirectObject(579, 0, 4345868448), IndirectObject(541, 0, 4345868448), IndirectObject(689, 0, 4345868448), IndirectObject(536, 0, 4345868448), IndirectObject(531, 0, 4345868448), IndirectObject(532, 0, 4345868448), IndirectObject(534, 0, 4345868448), IndirectObject(690, 0, 4345868448), IndirectObject(558, 0, 4345868448), IndirectObject(526, 0, 4345868448), IndirectObject(525, 0, 4345868448), IndirectObject(527, 0, 4345868448)],
+            '/T': 'brennstoffe_fluessig'
+        }
+    },
+    'heizraum': {
+        '/T': 'heizraum',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        }
+    },
+    'sonstiger_raum': {
+        '/T': 'sonstiger_raum',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912
+    },
+    'lagerort': {
+        '/T': 'lagerort',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Kids': [IndirectObject(511, 0, 4345868448), IndirectObject(559, 0, 4345868448)]
+    },
+    'standort': {
+        '/T': 'standort',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912
+    },
+    'gesamtrauminhalt': {
+        '/T': 'gesamtrauminhalt',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(495, 0, 4345868448),
+            '/K': IndirectObject(492, 0, 4345868448)
+        }
+    },
+    'baujahr': {
+        '/T': 'baujahr',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912
+    },
+    'behaelter_art': {
+        '/T': 'behaelter_art',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Kids': [IndirectObject(508, 0, 4345868448), IndirectObject(505, 0, 4345868448)]
+    },
+    'baustoff': {
+        '/T': 'baustoff',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912
+    },
+    'herstellerfirma': {
+        '/T': 'herstellerfirma',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12587008
+    },
+    'typ': {
+        '/T': 'typ',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912
+    },
+    'schutzvorkehrungen': {
+        '/T': 'schutzvorkehrungen',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12587008
+    },
+    'brennstoffe_fluessig': {
+        '/T': 'brennstoffe_fluessig',
+        '/Kids': [IndirectObject(551, 0, 4345868448), IndirectObject(550, 0, 4345868448), IndirectObject(544, 0, 4345868448), IndirectObject(543, 0, 4345868448), IndirectObject(542, 0, 4345868448), IndirectObject(540, 0, 4345868448), IndirectObject(579, 0, 4345868448), IndirectObject(541, 0, 4345868448), IndirectObject(689, 0, 4345868448), IndirectObject(536, 0, 4345868448), IndirectObject(531, 0, 4345868448), IndirectObject(532, 0, 4345868448), IndirectObject(534, 0, 4345868448), IndirectObject(690, 0, 4345868448), IndirectObject(558, 0, 4345868448), IndirectObject(526, 0, 4345868448), IndirectObject(525, 0, 4345868448), IndirectObject(527, 0, 4345868448)]
+    },
+    'erdgas': {
+        '/T': 'erdgas',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        }
+    },
+    'fluessiggas': {
+        '/T': 'fluessiggas',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        }
+    },
+    'biogas': {
+        '/T': 'biogas',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        }
+    },
+    'sonstige_bezeichnung': {
+        '/T': 'sonstige_bezeichnung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        },
+        '/Ff': 12582912
+    },
+    'lagerraum': {
+        '/T': 'lagerraum',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)],
+            '/T': 'brennstoffe_gasfoermig'
+        }
+    },
+    'brennstoffe_gasfoermig': {
+        '/T': 'brennstoffe_gasfoermig',
+        '/Kids': [IndirectObject(528, 0, 4345868448), IndirectObject(524, 0, 4345868448), IndirectObject(555, 0, 4345868448), IndirectObject(515, 0, 4345868448), IndirectObject(514, 0, 4345868448), IndirectObject(489, 0, 4345868448), IndirectObject(513, 0, 4345868448), IndirectObject(687, 0, 4345868448), IndirectObject(510, 0, 4345868448), IndirectObject(506, 0, 4345868448), IndirectObject(490, 0, 4345868448), IndirectObject(507, 0, 4345868448), IndirectObject(688, 0, 4345868448), IndirectObject(554, 0, 4345868448), IndirectObject(498, 0, 4345868448), IndirectObject(499, 0, 4345868448), IndirectObject(501, 0, 4345868448)]
+    },
+    'liegt_an_verkehrsflaeche': {
+        '/T': 'liegt_an_verkehrsflaeche',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'ueber_anderes_grundstueck': {
+        '/T': 'ueber_anderes_grundstueck',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'rechtlich_gesichert': {
+        '/T': 'rechtlich_gesichert',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'befahrbar': {
+        '/T': 'befahrbar',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'sammelkanalisation': {
+        '/T': 'sammelkanalisation',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'kleinklaeranlage': {
+        '/T': 'kleinklaeranlage',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'abflusslose_sammelgrube': {
+        '/T': 'abflusslose_sammelgrube',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'sickergrube': {
+        '/T': 'sickergrube',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'sonstige_anlage': {
+        '/T': 'sonstige_anlage',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'sonstige_anlage_bezeichnung': {
+        '/T': 'sonstige_anlage_bezeichnung',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        },
+        '/Ff': 12582912
+    },
+    'zentrale_wasserversorgung': {
+        '/T': 'zentrale_wasserversorgung',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'brunnen': {
+        '/T': 'brunnen',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'gesicherte_loeschwasserversorgung': {
+        '/T': 'gesicherte_loeschwasserversorgung',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)],
+            '/T': 'erschliessung'
+        }
+    },
+    'erschliessung': {
+        '/T': 'erschliessung',
+        '/Kids': [IndirectObject(637, 0, 4345868448), IndirectObject(636, 0, 4345868448), IndirectObject(635, 0, 4345868448), IndirectObject(634, 0, 4345868448), IndirectObject(633, 0, 4345868448), IndirectObject(638, 0, 4345868448), IndirectObject(632, 0, 4345868448), IndirectObject(631, 0, 4345868448), IndirectObject(610, 0, 4345868448), IndirectObject(604, 0, 4345868448), IndirectObject(611, 0, 4345868448), IndirectObject(605, 0, 4345868448), IndirectObject(612, 0, 4345868448)]
+    },
+    'stellplaetze_werden_erfuellt': {
+        '/T': 'stellplaetze_werden_erfuellt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(684, 0, 4345868448), IndirectObject(685, 0, 4345868448), IndirectObject(620, 0, 4345868448), IndirectObject(686, 0, 4345868448), IndirectObject(623, 0, 4345868448), IndirectObject(617, 0, 4345868448)],
+            '/T': 'anforderung'
+        },
+        '/Kids': [IndirectObject(614, 0, 4345868448), IndirectObject(615, 0, 4345868448), IndirectObject(616, 0, 4345868448)]
+    },
+    'fahrradstellplaetze_werden_erfuellt': {
+        '/T': 'fahrradstellplaetze_werden_erfuellt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(684, 0, 4345868448), IndirectObject(685, 0, 4345868448), IndirectObject(620, 0, 4345868448), IndirectObject(686, 0, 4345868448), IndirectObject(623, 0, 4345868448), IndirectObject(617, 0, 4345868448)],
+            '/T': 'anforderung'
+        },
+        '/Kids': [IndirectObject(618, 0, 4345868448), IndirectObject(606, 0, 4345868448), IndirectObject(619, 0, 4345868448)]
+    },
+    'fahrradstellplaetze_anzahl': {
+        '/T': 'fahrradstellplaetze_anzahl',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(684, 0, 4345868448), IndirectObject(685, 0, 4345868448), IndirectObject(620, 0, 4345868448), IndirectObject(686, 0, 4345868448), IndirectObject(623, 0, 4345868448), IndirectObject(617, 0, 4345868448)],
+            '/T': 'anforderung'
+        },
+        '/Ff': 12582912,
+        '/AA': {}
+    },
+    'kinderspielplaetze_werden_erfuellt': {
+        '/T': 'kinderspielplaetze_werden_erfuellt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(684, 0, 4345868448), IndirectObject(685, 0, 4345868448), IndirectObject(620, 0, 4345868448), IndirectObject(686, 0, 4345868448), IndirectObject(623, 0, 4345868448), IndirectObject(617, 0, 4345868448)],
+            '/T': 'anforderung'
+        },
+        '/Kids': [IndirectObject(621, 0, 4345868448), IndirectObject(607, 0, 4345868448), IndirectObject(622, 0, 4345868448)]
+    },
+    'kinderspielplaetze_grundflaeche': {
+        '/T': 'kinderspielplaetze_grundflaeche',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(684, 0, 4345868448), IndirectObject(685, 0, 4345868448), IndirectObject(620, 0, 4345868448), IndirectObject(686, 0, 4345868448), IndirectObject(623, 0, 4345868448), IndirectObject(617, 0, 4345868448)],
+            '/T': 'anforderung'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(584, 0, 4345868448),
+            '/K': IndirectObject(582, 0, 4345868448)
+        }
+    },
+    'stellplaetze_anzahl': {
+        '/T': 'stellplaetze_anzahl',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(684, 0, 4345868448), IndirectObject(685, 0, 4345868448), IndirectObject(620, 0, 4345868448), IndirectObject(686, 0, 4345868448), IndirectObject(623, 0, 4345868448), IndirectObject(617, 0, 4345868448)],
+            '/T': 'anforderung'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(586, 0, 4345868448),
+            '/K': IndirectObject(585, 0, 4345868448)
+        }
+    },
+    'anforderung': {
+        '/T': 'anforderung',
+        '/Kids': [IndirectObject(684, 0, 4345868448), IndirectObject(685, 0, 4345868448), IndirectObject(620, 0, 4345868448), IndirectObject(686, 0, 4345868448), IndirectObject(623, 0, 4345868448), IndirectObject(617, 0, 4345868448)]
+    },
+    'norm_DIN18024_1_erfuellt': {
+        '/T': 'norm_DIN18024_1_erfuellt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(681, 0, 4345868448), IndirectObject(682, 0, 4345868448), IndirectObject(683, 0, 4345868448), IndirectObject(600, 0, 4345868448), IndirectObject(627, 0, 4345868448)],
+            '/T': 'barrierefreies_bauen'
+        },
+        '/Kids': [IndirectObject(624, 0, 4345868448), IndirectObject(608, 0, 4345868448), IndirectObject(625, 0, 4345868448)]
+    },
+    'norm_DIN18040_1_erfuellt': {
+        '/T': 'norm_DIN18040_1_erfuellt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(681, 0, 4345868448), IndirectObject(682, 0, 4345868448), IndirectObject(683, 0, 4345868448), IndirectObject(600, 0, 4345868448), IndirectObject(627, 0, 4345868448)],
+            '/T': 'barrierefreies_bauen'
+        },
+        '/Kids': [IndirectObject(628, 0, 4345868448), IndirectObject(603, 0, 4345868448), IndirectObject(629, 0, 4345868448)]
+    },
+    'norm_DIN18040_2_erfuellt': {
+        '/T': 'norm_DIN18040_2_erfuellt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(681, 0, 4345868448), IndirectObject(682, 0, 4345868448), IndirectObject(683, 0, 4345868448), IndirectObject(600, 0, 4345868448), IndirectObject(627, 0, 4345868448)],
+            '/T': 'barrierefreies_bauen'
+        },
+        '/Kids': [IndirectObject(630, 0, 4345868448), IndirectObject(602, 0, 4345868448), IndirectObject(601, 0, 4345868448)]
+    },
+    'rollstuhl': {
+        '/T': 'rollstuhl',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(681, 0, 4345868448), IndirectObject(682, 0, 4345868448), IndirectObject(683, 0, 4345868448), IndirectObject(600, 0, 4345868448), IndirectObject(627, 0, 4345868448)],
+            '/T': 'barrierefreies_bauen'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(583, 0, 4345868448),
+            '/K': IndirectObject(581, 0, 4345868448)
+        }
+    },
+    'barrierefrei': {
+        '/T': 'barrierefrei',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(681, 0, 4345868448), IndirectObject(682, 0, 4345868448), IndirectObject(683, 0, 4345868448), IndirectObject(600, 0, 4345868448), IndirectObject(627, 0, 4345868448)],
+            '/T': 'barrierefreies_bauen'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(583, 0, 4345868448),
+            '/K': IndirectObject(581, 0, 4345868448)
+        }
+    },
+    'barrierefreies_bauen': {
+        '/T': 'barrierefreies_bauen',
+        '/Kids': [IndirectObject(681, 0, 4345868448), IndirectObject(682, 0, 4345868448), IndirectObject(683, 0, 4345868448), IndirectObject(600, 0, 4345868448), IndirectObject(627, 0, 4345868448)]
+    },
+    'anforderung_enev': {
+        '/T': 'anforderung_enev',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(680, 0, 4345868448), IndirectObject(595, 0, 4345868448), IndirectObject(594, 0, 4345868448), IndirectObject(597, 0, 4345868448), IndirectObject(596, 0, 4345868448), IndirectObject(593, 0, 4345868448)],
+            '/T': 'energieeinsparung_einhaltung'
+        },
+        '/Kids': [IndirectObject(599, 0, 4345868448), IndirectObject(626, 0, 4345868448), IndirectObject(598, 0, 4345868448)]
+    },
+    'anforderung_eewaermeg': {
+        '/T': 'anforderung_eewaermeg',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(680, 0, 4345868448), IndirectObject(595, 0, 4345868448), IndirectObject(594, 0, 4345868448), IndirectObject(597, 0, 4345868448), IndirectObject(596, 0, 4345868448), IndirectObject(593, 0, 4345868448)],
+            '/T': 'energieeinsparung_einhaltung'
+        }
+    },
+    'anforderung_eewaermeg_ja_durch': {
+        '/T': 'anforderung_eewaermeg_ja_durch',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(680, 0, 4345868448), IndirectObject(595, 0, 4345868448), IndirectObject(594, 0, 4345868448), IndirectObject(597, 0, 4345868448), IndirectObject(596, 0, 4345868448), IndirectObject(593, 0, 4345868448)],
+            '/T': 'energieeinsparung_einhaltung'
+        }
+    },
+    'befreiungsantrag': {
+        '/T': 'befreiungsantrag',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(680, 0, 4345868448), IndirectObject(595, 0, 4345868448), IndirectObject(594, 0, 4345868448), IndirectObject(597, 0, 4345868448), IndirectObject(596, 0, 4345868448), IndirectObject(593, 0, 4345868448)],
+            '/T': 'energieeinsparung_einhaltung'
+        }
+    },
+    'ausnahmeantrag': {
+        '/T': 'ausnahmeantrag',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(680, 0, 4345868448), IndirectObject(595, 0, 4345868448), IndirectObject(594, 0, 4345868448), IndirectObject(597, 0, 4345868448), IndirectObject(596, 0, 4345868448), IndirectObject(593, 0, 4345868448)],
+            '/T': 'energieeinsparung_einhaltung'
+        }
+    },
+    'anforderung_eewaermeg_ja_massnahmen': {
+        '/T': 'anforderung_eewaermeg_ja_massnahmen',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(680, 0, 4345868448), IndirectObject(595, 0, 4345868448), IndirectObject(594, 0, 4345868448), IndirectObject(597, 0, 4345868448), IndirectObject(596, 0, 4345868448), IndirectObject(593, 0, 4345868448)],
+            '/T': 'energieeinsparung_einhaltung'
+        }
+    },
+    'energieeinsparung_einhaltung': {
+        '/T': 'energieeinsparung_einhaltung',
+        '/Kids': [IndirectObject(680, 0, 4345868448), IndirectObject(595, 0, 4345868448), IndirectObject(594, 0, 4345868448), IndirectObject(597, 0, 4345868448), IndirectObject(596, 0, 4345868448), IndirectObject(593, 0, 4345868448)]
+    },
+    'fuer_wohnungen': {
+        '/T': 'fuer_wohnungen',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(592, 0, 4345868448), IndirectObject(589, 0, 4345868448), IndirectObject(590, 0, 4345868448)],
+            '/T': 'nutzflaechen'
+        },
+        '/Ff': 12587008
+    },
+    'fuer_freie_berufe': {
+        '/T': 'fuer_freie_berufe',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(592, 0, 4345868448), IndirectObject(589, 0, 4345868448), IndirectObject(590, 0, 4345868448)],
+            '/T': 'nutzflaechen'
+        },
+        '/Ff': 12587008
+    },
+    'fuer_gewerbe': {
+        '/T': 'fuer_gewerbe',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(592, 0, 4345868448), IndirectObject(589, 0, 4345868448), IndirectObject(590, 0, 4345868448)],
+            '/T': 'nutzflaechen'
+        },
+        '/Ff': 12587008
+    },
+    'nutzflaechen': {
+        '/T': 'nutzflaechen',
+        '/Kids': [IndirectObject(592, 0, 4345868448), IndirectObject(589, 0, 4345868448), IndirectObject(590, 0, 4345868448)]
+    },
+    'anforderung_erfuellt': {
+        '/T': 'anforderung_erfuellt',
+        '/FT': '/Btn',
+        '/Parent': {
+            '/Kids': [IndirectObject(679, 0, 4345868448)],
+            '/T': 'rauchwarnmelder'
+        },
+        '/Kids': [IndirectObject(655, 0, 4345868448), IndirectObject(654, 0, 4345868448), IndirectObject(652, 0, 4345868448)]
+    },
+    'rauchwarnmelder': {
+        '/T': 'rauchwarnmelder',
+        '/Kids': [IndirectObject(679, 0, 4345868448)]
+    },
+    'ergaenzende_angaben': {
+        '/T': 'ergaenzende_angaben',
+        '/Kids': [IndirectObject(648, 0, 4345868448)]
+    },
+    'ort_planer': {
+        '/T': 'ort_planer',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(645, 0, 4345868448), IndirectObject(646, 0, 4345868448)],
+            '/T': 'unterschrift'
+        },
+        '/Ff': 12582912
+    },
+    'datum_planer': {
+        '/T': 'datum_planer',
+        '/FT': '/Tx',
+        '/Parent': {
+            '/Kids': [IndirectObject(645, 0, 4345868448), IndirectObject(646, 0, 4345868448)],
+            '/T': 'unterschrift'
+        },
+        '/Ff': 12582912,
+        '/AA': {
+            '/F': IndirectObject(641, 0, 4345868448),
+            '/K': IndirectObject(651, 0, 4345868448)
+        }
+    },
+    'unterschrift': {
+        '/T': 'unterschrift',
+        '/Kids': [IndirectObject(645, 0, 4345868448), IndirectObject(646, 0, 4345868448)]
+    },
+    'intelliform:submit:cancel': {
+        '/T': 'intelliform:submit:cancel',
+        '/FT': '/Btn',
+        '/Ff': 65536
+    },
+    'intelliform:submit:save': {
+        '/T': 'intelliform:submit:save',
+        '/FT': '/Btn',
+        '/Ff': 65536
+    },
+    'intelliform:submit:button': {
+        '/T': 'intelliform:submit:button',
+        '/FT': '/Btn',
+        '/Ff': 65536
+    },
+    'intelliform:form:id': {
+        '/T': 'intelliform:form:id',
+        '/FT': '/Tx',
+        '/Ff': 0,
+        '/V': '87704'
+    }
+}
